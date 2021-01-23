@@ -1,6 +1,6 @@
 # Game
-# CN Games
-# In this webpage we have two games
+### CN Games
+### In this webpage we have two games
 # Select one and start the game
 # Ludo Game
 Source code of ludo game was taken from the thapatechnical.com

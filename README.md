@@ -19,7 +19,7 @@ Source code of Bird Fly was taken from the w3school.com
 ### Model is prepared by using the Teachable Machine.
 ### Teachable machine model link :
 Game play: The bird hover in the sky.There are some obstacles randomly generated.The bird should move accordingly such that its not touching the obstacles.
-If the bird touches the obstacles the game comes to the ended.By audio you can play the game by saying up,down,left,right accordingly.In other way use the buttons given.
+If the bird touches the obstacles the game comes to the end.By audio you can play the game by saying up,down,left,right accordingly.In other way use the buttons given.
 
 # Refered websites:
 

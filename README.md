@@ -1,8 +1,8 @@
-# Game
+
 # CN Games
 ### In this webpage we have two games
 ### Select one and start the game
-# Ludo Game
+# Ludo 
 Source code of ludo game was taken from the thapatechnical.com
 ### Link to refer the source code : https://www.thapatechnical.com/2019/03/create-ludo-game-in-javascript-html-and.html
 ### Ludo game implements the basic javascript,css and html.This game runs with a very simple logic.

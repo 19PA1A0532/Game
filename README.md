@@ -13,7 +13,7 @@ If the bird touches the obstacles the game comes to the end.By audio you can pla
 1.w3school.com
 2.https://www.youtube.com/watch?v=UPgxnGC8oBU&vl=en
   
-# Heroku link : 
+# Heroku link : https://bird623264.herokuapp.com/
 # Video link for the demo of the game :
 [[Watch the video]](https://youtu.be/FfJYXdVGrVE)
 

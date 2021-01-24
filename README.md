@@ -10,6 +10,11 @@ Game play: The bird hover in the sky.There are some obstacles randomly generated
 If the bird touches the obstacles the game comes to the end.By audio you can play the game by saying up,down,left,right accordingly.In other way use the buttons given.
 
 # Refered websites:
+1.w3school.com
+2.https://www.youtube.com/watch?v=UPgxnGC8oBU&vl=en
+  
+# Heroku link : 
+# Video link for the demo of the game :
+[[Watch the video]](https://youtu.be/FfJYXdVGrVE)
 
 
-# Video link for the demo of the game

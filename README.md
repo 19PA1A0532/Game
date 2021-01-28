@@ -17,4 +17,7 @@ If the bird touches the obstacles the game comes to the end.By audio you can pla
 # Video link for the demo of the game :
 [[Watch the video]](https://youtu.be/FfJYXdVGrVE)
 
+# Team members:
+1. 19pa1a0562-Juttiga Mounika
+2. 19pa1a0532-Chikkala Pavitra
 
